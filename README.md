@@ -79,9 +79,9 @@ A comunicação entre os componentes é feita através de objetos Python/JSON. O
 - O sistema não substitui a aprovação de um contabilista. Casos ambíguos devem ser revistos por uma pessoa.
 
 ## Declaração de utilização de IA
-O código inicial foi desenvolvido com apoio do ChatGPT. O grupo deve rever, testar, compreender e adaptar o código, e declarar no relatório todas as utilizações de IA, de acordo com as regras da unidade curricular.
+O grupo utilizou o ChatGPT de forma limitada, exclusivamente como apoio à elaboração do ficheiro README.md e à identificação e correção de alguns erros técnicos que não conseguiu resolver autonomamente. A utilização de IA não substituiu o desenvolvimento realizados pelos elementos do grupo.
 
 ## Autoria
-- [Nome do elemento 1]
-- [Nome do elemento 2]
-- [Nome do elemento 3]
+- Diogo Costa 
+- Rodrigo Nogueira
+- Ricardo Kanhoca
