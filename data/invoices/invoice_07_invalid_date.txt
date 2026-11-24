@@ -1,0 +1,7 @@
+Fornecedor: Livraria Horizonte
+Fatura: LH-2026-019
+Data: 2026-13-40
+Linha: Caderno | 4 | 2.00 | 8.00
+Subtotal: 8.00
+Imposto: 1.84
+Total: 9.84

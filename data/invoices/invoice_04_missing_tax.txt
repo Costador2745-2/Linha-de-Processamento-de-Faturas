@@ -1,0 +1,6 @@
+Fornecedor: Cafe e Companhia
+Fatura: CC-2026-008
+Data: 2026-10-05
+Linha: Cafe | 10 | 0.50 | 5.00
+Subtotal: 5.00
+Total: 6.15

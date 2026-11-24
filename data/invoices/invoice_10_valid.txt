@@ -1,0 +1,7 @@
+Fornecedor: Equipamentos Tejo
+Fatura: ET-2026-102
+Data: 2026-10-11
+Linha: Monitor | 1 | 120.00 | 120.00
+Subtotal: 120.00
+Imposto: 27.60
+Total: 147.60

@@ -1,0 +1,7 @@
+Fornecedor: Auto Pecas Lisboa
+Fatura: DUP-2026-77
+Data: 2026-10-07
+Linha: Filtro ar | 1 | 15.00 | 15.00
+Subtotal: 15.00
+Imposto: 3.45
+Total: 18.45

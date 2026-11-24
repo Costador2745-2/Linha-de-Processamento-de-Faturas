@@ -1,0 +1,8 @@
+Fornecedor: Informatica Norte
+Fatura: IN-2026-014
+Data: 2026-10-03
+Linha: Rato USB | 2 | 8.00 | 16.00
+Linha: Teclado | 1 | 20.00 | 20.00
+Subtotal: 36.00
+Imposto: 8.28
+Total: 44.28

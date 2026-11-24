@@ -1,0 +1,8 @@
+Fornecedor: Papelaria Central
+Fatura: PC-2026-001
+Data: 2026-10-01
+Linha: Resmas A4 | 2 | 5.00 | 10.00
+Linha: Canetas azuis | 5 | 1.00 | 5.00
+Subtotal: 15.00
+Imposto: 3.45
+Total: 18.45

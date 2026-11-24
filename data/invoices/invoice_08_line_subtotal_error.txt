@@ -1,0 +1,8 @@
+Fornecedor: Material Escolar
+Fatura: ME-2026-055
+Data: 2026-10-09
+Linha: Marcadores | 2 | 3.00 | 6.00
+Linha: Pastas | 2 | 2.00 | 4.00
+Subtotal: 15.00
+Imposto: 3.45
+Total: 18.45

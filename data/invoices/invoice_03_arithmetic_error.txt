@@ -1,0 +1,7 @@
+Fornecedor: Limpeza Mais
+Fatura: LM-2026-031
+Data: 2026-10-04
+Linha: Detergente | 3 | 4.00 | 12.00
+Subtotal: 12.00
+Imposto: 2.76
+Total: 20.00

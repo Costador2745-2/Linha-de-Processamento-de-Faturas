@@ -1,0 +1,6 @@
+Fatura: FS-2026-091
+Data: 2026-10-10
+Linha: Cabo HDMI | 2 | 6.00 | 12.00
+Subtotal: 12.00
+Imposto: 2.76
+Total: 14.76
